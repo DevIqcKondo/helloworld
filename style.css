@@ -7,3 +7,10 @@ body {
 p {
     color: black;
 }
+a:link, a:visited, a:active {
+	text-decoration: underline;
+	}
+a:hover {
+	background: deepskyblue;
+	color:blue;
+}
